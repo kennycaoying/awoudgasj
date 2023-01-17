@@ -1,0 +1,22 @@
+.scrolling{
+  margin: 0;
+  padding: 0;
+  height: 100vw;
+  overflow-x: hidden;
+}
+.scrolling-text{
+  margin: 0;
+  padding: 0;
+  font-faminly: sans-serif;
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  white-space: nowrap;
+  font-size: 100px;
+  left: 100vw;
+}
+
+p{
+  font-faminly: sans-serif;
+  font-size: 2em;
+}
